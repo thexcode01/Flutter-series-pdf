@@ -1,8 +1,5 @@
 <!-- BANNER IMAGE -->
-<p align="center">
-  <img src="<img width="1101" height="504" alt="image" src="https://github.com/user-attachments/assets/4d1da718-256b-47d8-9606-3e666d9a0eda" />
-" alt="Notes Banner" width="100%">
-</p>
+<img width="1101" height="504" alt="image" src="https://github.com/user-attachments/assets/5ef0136b-8271-444d-b280-b09e95d28847" />
 
 <h1 align="center">📚 PDF Notes Repository</h1>
 <p align="center">All the notes, all in one place. Clear. Concise. Complete. ✨</p>
