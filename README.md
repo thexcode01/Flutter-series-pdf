@@ -9,16 +9,13 @@
 ## 🎥 YouTube Series
 
 🔗 **Watch the full playlist here:**  
-👉 [📺 YouTube Series Link]([https://your-youtube-series-url.com](https://www.youtube.com/watch?v=som-xqVgnig&list=PL805VASnajJ16pip2ZUFycE-H7lT2KxgY))
+👉 [📺 YouTube Series Link](https://www.youtube.com/watch?v=som-xqVgnig&list=PL805VASnajJ16pip2ZUFycE-H7lT2KxgY)
 
 > Don't forget to **Like**, **Subscribe**, and **Share** to support quality content 🙌
 
 ---
 
 > ✅ **More notes will be added as the series continues.**  
-> Stay updated by starring ⭐ this repo!
+> ⭐ **Star this repo** to stay updated with the latest PDFs!
 
 ---
-
-## 📝 Update Logs
-
